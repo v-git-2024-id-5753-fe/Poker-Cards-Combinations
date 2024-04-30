@@ -1,0 +1,11 @@
+card_4C
+HighCard	48
+One_pair_of_a_kind	3
+Two_pairs_of_a_kind	0
+Three_cards_of_a_kind	0
+Straight	0
+Flush	0
+Full_House	0
+Four_of_a_kind	0
+Straight_Flush	0
+Total_Combinations	51

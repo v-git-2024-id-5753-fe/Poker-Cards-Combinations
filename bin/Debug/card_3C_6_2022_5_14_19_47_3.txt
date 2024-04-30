@@ -1,0 +1,11 @@
+card_3C
+HighCard	92982600
+One_pair_of_a_kind	153297360
+Two_pairs_of_a_kind	17012160
+Three_cards_of_a_kind	9303360
+Straight	3081240
+Flush	2859840
+Full_House	1031040
+Four_of_a_kind	2304480
+Straight_Flush	15120
+Total_Combinations	281887200
